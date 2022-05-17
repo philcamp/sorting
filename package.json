@@ -1,0 +1,16 @@
+{
+  "name": "sorting",
+  "version": "1.0.0",
+  "description": "sorting",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha specs/**/*_spec.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*"
+  },
+  "type": "module"
+}
